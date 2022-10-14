@@ -98,15 +98,16 @@ body{
         text-align: center;
     }
     .search-wrapper input{
-        font-size: 0.8em;
+        font-size: 0.5em;
     }
     .search-wrapper button{
         border-radius: 5px;
-        padding: 3px 5px;
-        font-size: 15px;
+        /* padding: 3px 5px; */
+        font-size: 8px;
     }
     .search-wrapper input::placeholder{
-        font-size: 0.8em;
+        font-size: 0.9em;
+        font-weight: 600;
     }
     .container .flag-img{
         width: 25%;
