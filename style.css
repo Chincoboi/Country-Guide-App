@@ -94,7 +94,7 @@ body{
         margin-top: -30px;
     }
     .search-wrapper{
-        display: block;
+        /* display: block; */
         text-align: center;
     }
     .search-wrapper input{
@@ -102,9 +102,8 @@ body{
     }
     .search-wrapper button{
         border-radius: 5px;
-        padding: 0.3em .5em;
-        margin: auto;
-        margin-top: 10px;
+        padding: 3px 5px;
+        font-size: 15px;
     }
     .search-wrapper input::placeholder{
         font-size: 0.8em;
