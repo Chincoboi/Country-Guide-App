@@ -65,7 +65,7 @@ body{
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 2px;
-    margin-bottom: 1.8em;
+    margin-bottom: 1em;
 }
 .data-wrapper{
     margin-bottom: 1em;
@@ -97,6 +97,9 @@ body{
         display: block;
         text-align: center;
     }
+    .search-wrapper input{
+        font-size: 0.8em;
+    }
     .search-wrapper button{
         border-radius: 5px;
         padding: 0.3em .5em;
@@ -107,7 +110,7 @@ body{
         font-size: 0.8em;
     }
     .container .flag-img{
-        width: 30%;
+        width: 25%;
         min-width: 0;
     }
     .container .coat-img{
