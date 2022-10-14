@@ -28,7 +28,7 @@ body{
     font-size: 1em;
     background-color: #3d64e6;
     color: #fff;
-    padding: 0.8em 0;
+    padding: 0.5em 0;
     border: none;
     border-radius: 1.5em;
 }
@@ -41,22 +41,22 @@ body{
     color: #222a43;
 }
 #result{
-    margin-top: 1.25em;
+    margin-top: 1em;
 }
 .container .imgg{
     text-align: center;
 }
 .container .flag-img{
     /* display: inline-flex; */
-    width: 40%;
-    min-width: 5.5em;
-    margin: 1.8em auto 1.2em auto;
+    width: 35%;
+    min-width: 4em;
+    margin: 1.5em auto 1em auto;
 }
 .container .coat-img{
     /* display: inline-flex; */
     width: 20%;
     min-width: 3em;
-    margin: 1.8em auto 1.2em auto;
+    margin: 1.5em auto 1em auto;
     padding-left: 10px;
 }
 .container h2{
@@ -68,7 +68,7 @@ body{
     margin-bottom: 1em;
 }
 .data-wrapper{
-    margin-bottom: 1em;
+    margin-bottom: 0.7em;
     letter-spacing: 0.3px;
 }
 .container h4{
@@ -116,5 +116,8 @@ body{
     .container .coat-img{
         width: 20%;
         min-width: 0;
+    }
+    .container h3{
+        font-size: 0.8em;
     }
 }
